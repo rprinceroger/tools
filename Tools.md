@@ -88,6 +88,7 @@
 | - | [Bootstrap](#) | Framework | - |
 | - | [Elementor](#) | WordPress Website Builder | - |
 | - | [Astra](#) | WordPress Theme | - |
+| - | [Color Picker Tool - Geco](https://chrome.google.com/webstore/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp) | Color Picker | - |
 
 
 
