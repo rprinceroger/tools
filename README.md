@@ -50,7 +50,7 @@
 | - | [GoHighLevel](https://www.gohighlevel.com/go-v2s) | - |
 | ![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF) | [Wise](https://wise.com/login?redirectUrl=%2Fbalances%2F68738209) | - |
 
-## Import Files
+## Import Files / Languages
 
 | Badge | Name | Description | Extension |
 | :-: | :-: | :-: | :-: |
@@ -59,7 +59,7 @@
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [JavaScript](https://www.javascripttutorial.net/) | Programming Language | .js |
 | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | [PHP](https://www.php.net/) | Programming Language | .ph |
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | [Python](https://www.python.org/) | Programming Language | .py |
-| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | [MySQL](https://www.mysql.com/) | Programming Language | .sql |
+| ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | [SQL](https://www.mysql.com/) | Programming Language | .sql |
 
 ## Packages (npm install)
 
@@ -68,12 +68,12 @@
 | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) | [Dependabot](https://github.com/dependabot) | - |
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [React](https://react.dev/) | Libraries |
 | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | [Express](https://www.npmjs.com/package/express) | - |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Mongoose](https://www.npmjs.com/package/mongoose?activeTab=readme#documentation) | - |
-| ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) | [Glitch](https://glitch.com/) | - |
-| - | [sweetalert2](https://www.npmjs.com/package/sweetalert2) | - |
-| ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) | [react-hook-form](https://www.npmjs.com/package/react-hook-form) | - |
-| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | [react-router-dom](https://www.npmjs.com/package/react-router) | - |
-| - | [dotenv](https://www.dotenv.org/) | - |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Mongoose](https://www.npmjs.com/package/mongoose?activeTab=readme#documentation) | OOP Library |
+| ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) | [Glitch](https://glitch.com/) | Open Web Community |
+| - | [sweetalert2](https://www.npmjs.com/package/sweetalert2) | Alternative to JS popup boxes |
+| ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) | [react-hook-form](https://www.npmjs.com/package/react-hook-form) | Library |
+| ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | [react-router-dom](https://www.npmjs.com/package/react-router) | Library |
+| - | [dotenv](https://www.dotenv.org/) | Environment Variable |
 | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | [JSON Webtoken](https://jwt.io/) | Libraries |
 
 
@@ -82,15 +82,15 @@
 | Badge | Name | Description |
 | :-: | :-: | :-: |
 | ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) | [Adobe Acrobat](https://get.adobe.com/reader/) | Framework |
-| ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) | [Babel](https://babeljs.io/) | - |
+| ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) | [Babel](https://babeljs.io/) | Convert JSX to JS |
 | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) | Framework |
 | - | [AOS Animation](https://michalsnik.github.io/aos/) | Animation |
-| - | [Restman](https://chrome.google.com/webstore/detail/restman/ihgpcfpkpmdcghlnaofdmjkoemnlijdi/related) | - |
+| - | [Restman](https://chrome.google.com/webstore/detail/restman/ihgpcfpkpmdcghlnaofdmjkoemnlijdi/related) | REST API - Testing Tool |
 | - | [React Developer Tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Hosting/SaaS |
-| - | [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) | - |
-| - | [Google Font](https://fonts.google.com/) | - |
-| - | [Google Analytic](https://analytics.google.com/) | - |
-| ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) | [Google Meet](https://meet.google.com/) | - |
+| - | [Google Docs Offline](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi) | Office Essential |
+| - | [Google Font](https://fonts.google.com/) | Font Style |
+| - | [Google Analytic](https://analytics.google.com/) | Analytic |
+| ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) | [Google Meet](https://meet.google.com/) | Conferencing Software |
 | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | [Bootstrap](https://www.npmjs.com/package/bootstrap) | Framework |
 | - | [Elementor](https://wordpress.org/plugins/elementor/) | WordPress Website Builder |
 | - | [Astra](https://wpastra.com/theme-for-elementor/) | WordPress Theme |
@@ -108,10 +108,10 @@
 ## Games
 | Badge | Name | Description |
 | :-: | :-: | :-: |
-| - | [FlexboxFroggy](https://flexboxfroggy.com/) | - |
-| ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | [Codewars](https://www.codewars.com/) | - |
-| - | [CodeCombat](https://codecombat.com/) | - |
-| - | [CodinGame](https://www.codingame.com/start/) | - |
+| ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) | [Codewars](https://www.codewars.com/) | Coding Game |
+| - | [FlexboxFroggy](https://flexboxfroggy.com/) | Coding Game |
+| - | [CodeCombat](https://codecombat.com/) | Coding Game |
+| - | [CodinGame](https://www.codingame.com/start/) | Coding Game |
 
 
 <hr>
