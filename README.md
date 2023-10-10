@@ -37,9 +37,9 @@
 | ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) | [CodePen](https://codepen.io/) | Integrated Development Envrironment(IDE) |
 | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | [ChatGPT](https://chat.openai.com/) | Artificial Intelligence |
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | [Figma](https://www.figma.com/downloads/) | Design |
-| ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | [GitLab](#) | - |
-| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | [Google Search Console](https://search.google.com/search-console/about) | - |
-| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn](https://www.linkedin.com/login) | - |
+| ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | [GitLab](https://gitlab.com/prince.robielos) | Version Control |
+| ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | [Google Search Console](https://search.google.com/search-console/about) | SEO Tool |
+| ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn](https://www.linkedin.com/login) | Professional Social Media |
 | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) | [Render](https://dashboard.render.com/) | Hosting/SaaS |
 | ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) | [Swagger](https://app.swaggerhub.com/search) | Version Control  |
 | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | [Trello](https://trello.com/) | -  |
@@ -47,8 +47,8 @@
 | ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) | [Glitch](https://glitch.com/signin) | Deployment platform |
 | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) | [WordPress](https://wordpress.com/log-in?site=x4atoolfinder.wordpress.com&redirect_to=%2Fplugins%2Fbrowse%2Fseo%2Fx4atoolfinder.wordpress.com) | Framework |
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | [CloudFlare](https://dash.cloudflare.com/login) | DNS Service / Content Delivery Network |
-| - | [GoHighLevel](https://www.gohighlevel.com/go-v2s) | - |
-| ![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF) | [Wise](https://wise.com/login?redirectUrl=%2Fbalances%2F68738209) | - |
+| ![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF) | [Wise](https://wise.com/login?redirectUrl=%2Fbalances%2F68738209) | Cross-border Payment Transfers |
+| - | [GoHighLevel](https://help.gohighlevel.com/support/solutions) | CRM |
 
 ## Import Files / Languages
 
@@ -70,11 +70,12 @@
 | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | [Express](https://www.npmjs.com/package/express) | - |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Mongoose](https://www.npmjs.com/package/mongoose?activeTab=readme#documentation) | OOP Library |
 | ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) | [Glitch](https://glitch.com/) | Open Web Community |
-| - | [sweetalert2](https://www.npmjs.com/package/sweetalert2) | Alternative to JS popup boxes |
 | ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) | [react-hook-form](https://www.npmjs.com/package/react-hook-form) | Library |
 | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) | [react-router-dom](https://www.npmjs.com/package/react-router) | Library |
-| - | [dotenv](https://www.dotenv.org/) | Environment Variable |
 | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | [JSON Webtoken](https://jwt.io/) | Libraries |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | [React-Bootstrap](https://www.npmjs.com/package/bootstrap) | NPM Package |
+| - | [dotenv](https://www.dotenv.org/) | Environment Variable |
+| - | [sweetalert2](https://www.npmjs.com/package/sweetalert2) | Alternative to JS popup boxes |
 
 
 ## Other Tools - Extension / Plugin / Import Links
@@ -83,7 +84,6 @@
 | :-: | :-: | :-: |
 | ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) | [Adobe Acrobat](https://get.adobe.com/reader/) | Framework |
 | ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) | [Babel](https://babeljs.io/) | Convert JSX to JS |
-| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) | Framework |
 | - | [AOS Animation](https://michalsnik.github.io/aos/) | Animation |
 | - | [Restman](https://chrome.google.com/webstore/detail/restman/ihgpcfpkpmdcghlnaofdmjkoemnlijdi/related) | REST API - Testing Tool |
 | - | [React Developer Tool](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Hosting/SaaS |
@@ -91,7 +91,7 @@
 | - | [Google Font](https://fonts.google.com/) | Font Style |
 | - | [Google Analytic](https://analytics.google.com/) | Analytic |
 | ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) | [Google Meet](https://meet.google.com/) | Conferencing Software |
-| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | [Bootstrap](https://www.npmjs.com/package/bootstrap) | Framework |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) | Framework |
 | - | [Elementor](https://wordpress.org/plugins/elementor/) | WordPress Website Builder |
 | - | [Astra](https://wpastra.com/theme-for-elementor/) | WordPress Theme |
 | - | [Color Picker Tool - Geco](https://chrome.google.com/webstore/detail/color-picker-tool-geco/eokjikchkppnkdipbiggnmlkahcdkikp) | Color Picker |
@@ -104,6 +104,8 @@
 | - | [HTML Cheat Sheet](https://htmlcheatsheet.com/) | HTML, CSS and JS Cheat Sheet |
 | - | [CodeCademy](https://www.codecademy.com/resources/cheatsheets/all) | Cheat Sheet |
 | - | [Hacker Themes](https://hackerthemes.com/bootstrap-cheatsheet/) | Bootstrap 4 Cheat Sheet |
+| - | [CodeWithHarry](https://www.codewithharry.com/blogpost/php-cheatsheet/) | PHP Cheat Sheet |
+| - | [Front Line PHP](https://front-line-php.com/cheat-sheet) | PHP Cheat Sheet |
 
 ## Games
 | Badge | Name | Description |
