@@ -23,12 +23,24 @@
 | - | [XAMPP](https://www.apachefriends.org/) | Cross-Platform |
 | - | [Composer](https://getcomposer.org/) | Dependancy Manager |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Mongoosh](https://www.mongodb.com/docs/mongodb-shell/#mongodb-binary-bin.mongosh) | MongoDB Shell (mongosh) |
-| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | [MariaDB](https://mariadb.com/downloads/) | -  |
-| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | [Slack](https://slack.com/downloads/windows) | -  |
-| ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) | [Zoom](https://zoom.us/download) | -  |
-| ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white) | [Skype](https://www.skype.com/en/get-skype/) | -  |
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | - |
+| ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | [MariaDB](https://mariadb.com/downloads/) | Database |
+| ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) | [Slack](https://slack.com/downloads/windows) | Collaboration Tool |
+| ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) | [Zoom](https://zoom.us/download) | Collaboration Tool |
+| ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white) | [Skype](https://www.skype.com/en/get-skype/) | Collaboration Tool |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | Virtual Machine |
 | - | [Cain and Abel](#) | - |
+
+
+## Operating System (ISO)
+
+| Badge | Name | Description  |
+| :-: | :-: | :-: |
+| ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) | [Kali Linux](https://www.kali.org/get-kali/#kali-platforms) | Open-source OS |
+| ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) | [Monterey](https://techsprobe.com/download-macos-monterey-iso/) | Free for education |
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | [Ubuntu Linux](https://ubuntu.com/download) | Open-source OS |
+| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | [Windows 10](https://windows-10.en.uptodown.com/windows/download) | Cracked |
+
+
 
 ## Web Base
 
@@ -67,11 +79,11 @@
 | ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) | [Dependabot](https://github.com/dependabot) | GitHub Repository Bot |
 | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | [ChatGPT](https://chat.openai.com/) | Artificial Intelligence |
 | ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | [Google Assistant](https://assistant.google.com/) | Home Automation |
-| - | [Midjourney](https://replit.com/) | Generates Code |
-| - | [Replit](https://replit.com/) | - |
+| - | [Midjourney](https://replit.com/) | Generates Images |
+| - | [Replit](https://replit.com/) | Generates Code |
 | - | [Synthesia](https://www.synthesia.io/) | Generates Video |
 | - | [Soundraw](https://soundraw.io/) | Generates Music |
-| - | [Starrytars](https://starryai.com/starrytars) | - |
+| - | [Starrytars](https://starryai.com/starrytars) | Generates Avatar |
 | - | [SlidesAI](https://www.slidesai.io/) | Generates PPTs |
 | - | [Remini](https://remini.ai/) | Edit Pictures |
 | - | [Pictory](https://pictory.ai/) | Edit Videos |
@@ -82,8 +94,8 @@
 
 | Badge | Name | Description |
 | :-: | :-: | :-: |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [React](https://react.dev/) | Libraries |
-| ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | [Express](https://www.npmjs.com/package/express) | - |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [React](https://react.dev/) | Library |
+| ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | [Express](https://www.npmjs.com/package/express) | Library |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Mongoose](https://www.npmjs.com/package/mongoose?activeTab=readme#documentation) | OOP Library |
 | ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) | [Glitch](https://glitch.com/) | Open Web Community |
 | ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) | [react-hook-form](https://www.npmjs.com/package/react-hook-form) | Library |
