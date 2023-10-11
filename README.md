@@ -35,7 +35,6 @@
 | Badge | Name | Description |
 | :-: | :-: | :-: |
 | ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black) | [CodePen](https://codepen.io/) | Integrated Development Envrironment(IDE) |
-| ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | [ChatGPT](https://chat.openai.com/) | Artificial Intelligence |
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | [Figma](https://www.figma.com/downloads/) | Design |
 | ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | [GitLab](https://gitlab.com/prince.robielos) | Version Control |
 | ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | [Google Search Console](https://search.google.com/search-console/about) | SEO Tool |
@@ -61,11 +60,28 @@
 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | [Python](https://www.python.org/) | Programming Language | .py |
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) | [SQL](https://www.mysql.com/) | Programming Language | .sql |
 
+## Bot/AI
+
+| Badge | Name | Description |
+| :-: | :-: | :-: |
+| ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) | [Dependabot](https://github.com/dependabot) | GitHub Repository Bot |
+| ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | [ChatGPT](https://chat.openai.com/) | Artificial Intelligence |
+| ![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white) | [Google Assistant](https://assistant.google.com/) | Home Automation |
+| - | [Midjourney](https://replit.com/) | Generates Code |
+| - | [Replit](https://replit.com/) | - |
+| - | [Synthesia](https://www.synthesia.io/) | Generates Video |
+| - | [Soundraw](https://soundraw.io/) | Generates Music |
+| - | [Starrytars](https://starryai.com/starrytars) | - |
+| - | [SlidesAI](https://www.slidesai.io/) | Generates PPTs |
+| - | [Remini](https://remini.ai/) | Edit Pictures |
+| - | [Pictory](https://pictory.ai/) | Edit Videos |
+| - | [Wordtune](https://www.wordtune.com/) | Summary Notes |
+
+
 ## Packages (npm install)
 
 | Badge | Name | Description |
 | :-: | :-: | :-: |
-| ![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white) | [Dependabot](https://github.com/dependabot) | - |
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | [React](https://react.dev/) | Libraries |
 | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | [Express](https://www.npmjs.com/package/express) | - |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Mongoose](https://www.npmjs.com/package/mongoose?activeTab=readme#documentation) | OOP Library |
