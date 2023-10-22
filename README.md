@@ -53,7 +53,7 @@
 | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn](https://www.linkedin.com/login) | Professional Social Media |
 | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) | [Render](https://dashboard.render.com/) | Hosting/SaaS |
 | ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) | [Swagger](https://app.swaggerhub.com/search) | Version Control  |
-| ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | [Trello](https://trello.com/) | -  |
+| ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | [Trello](https://trello.com/) | Kanban-style |
 | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | [Vercel](https://vercel.com/login) | Deployment platform |
 | ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) | [Glitch](https://glitch.com/signin) | Deployment platform |
 | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) | [WordPress](https://wordpress.com/log-in?site=x4atoolfinder.wordpress.com&redirect_to=%2Fplugins%2Fbrowse%2Fseo%2Fx4atoolfinder.wordpress.com) | Framework |
@@ -128,10 +128,12 @@
 | :-: | :-: | :-: |
 | - | [SheCodes](https://cheatsheets.shecodes.io/) | Cheat Sheet |
 | - | [HTML Cheat Sheet](https://htmlcheatsheet.com/) | HTML, CSS and JS Cheat Sheet |
+| - | [DHX](https://dhtmlx.com/) | HTML, CSS, JS Cheat Sheet |
 | - | [CodeCademy](https://www.codecademy.com/resources/cheatsheets/all) | Cheat Sheet |
 | - | [Hacker Themes](https://hackerthemes.com/bootstrap-cheatsheet/) | Bootstrap 4 Cheat Sheet |
 | - | [CodeWithHarry](https://www.codewithharry.com/blogpost/php-cheatsheet/) | PHP Cheat Sheet |
 | - | [Front Line PHP](https://front-line-php.com/cheat-sheet) | PHP Cheat Sheet |
+
 
 
 <details>
