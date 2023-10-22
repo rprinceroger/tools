@@ -8,7 +8,7 @@
 | Badge | Name | Description  |
 | :-: | :-: | :-: |
 | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | [Adobe Photoshop](https://www.adobe.com/ph_en/products/photoshop/free-trial-download.html) | Design |
-| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) | [Brave](https://brave.com/download/) | Secure Browser - Chrome DevTool (JS) |
+| ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) | [Brave Nightly](https://brave.com/download-nightly/) | Secure Browser - Chrome DevTool (JS) |
 | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | [Discord](https://discord.com/download) | Social |
 | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) | [Firefox](https://www.mozilla.org/en-US/firefox/developer/) | Browser - Firefox DevTool (CSS) |
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | [Git](https://git-scm.com/downloads) | Version Control  |
@@ -18,6 +18,7 @@
 | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | [Node](https://nodejs.org/en/download) | cross-platform |
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)| [Postman](https://www.postman.com/downloads/) | API Platform |
 | ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) | [Sublime](https://www.sublimetext.com/3) | Text Editor |
+| ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white) | [Tor](https://www.torproject.org/download/) | Secure Browser |
 | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | [Visual Studio Code](https://code.visualstudio.com/download) | Text Editor |
 | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) | [WordPress](https://wordpress.org/download/) | Content Management System(CMS) |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Mongoosh](https://www.mongodb.com/docs/mongodb-shell/#mongodb-binary-bin.mongosh) | MongoDB Shell (mongosh) |
@@ -192,21 +193,37 @@
 | [Local Hub](https://hub.localwp.com/login) | Development Environment |
 | [TempMail](https://temp-mail.org/en/) | Temporary Email |
 | [Silhouette Studio](https://www.silhouetteamerica.com/software) | Design |
-| [Tor](https://www.torproject.org/download/) | Secure Browser |
 | [Codeshare](https://codeshare.io/) | Code Sharing Website |
 | [Typicode](https://jsonplaceholder.typicode.com/) | {JSON} Placeholder |
 | [Freepik](https://www.freepik.com/) | Image Bank Website |
 | [XML Sitemaps](https://www.xml-sitemaps.com/) | Sitemaps |
 | [Google Trends](https://trends.google.com/trends/) | SEO Tool |
 | [Lipsum](https://www.lipsum.com/) | Lorem Ipsum Generator |
-| [](#) | - |
-| [](#) | - |
-| [](#) | - |
-| [](#) | - |
-| [](#) | - |
-| [](#) | - |
-| [](#) | - |
-| [](#) | - |
+| [GetResponse](https://www.getresponse.com/) | CRM Tool |
+| [Systeme](https://systeme.io/) | CRM Tool |
+| [Favicon](https://www.favicon.cc/) | Favicon Generator |
+| [Imagecolorpicker](https://imagecolorpicker.com/) | Image Color Picker |
+| [ILoveImg](https://www.iloveimg.com/) | Resize multiple images |
+| [CSS Gradient](https://cssgradient.io/) | CSS Gradient |
+| [Color Hunt](colorhunt.co) | Color Combination - Theme |
+| [Coolors](coolors.co) | Color Combination - Theme |
+| [Freepik](freepik.com) | Free Photos |
+| [Pexels](pexels.com) | Free Photos |
+| [Storyset](storyset.com) | Free Animated Photos |
+| [Logo](https://app.logo.com/login) | Generate Logo |
+| [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) | Generate GiHub Readme |
+| [Robohash](robohash.org) | Generate Robot Profile |
+| [Shape](https://shape.so/browse) | Free icons |
+| [Fontawesome](https://fontawesome.com/) | Free icons |
+| [React Icons](https://react-icons.github.io/react-icons) | Free icons |
+| [Draw](https://www.drawio.com/) | Diagram or Flowchart |
+| [Miro](Miro.com) | Diagram or Flowchart |
+| [Bcrypt Generator](bcrypt-generator.com) | Encrypt and Decrypt |
+| [Google Codelabs](https://codelabs.developers.google.com/) | Free Certificates |
+| [NBI Ph](clearance.nbi.gov.ph) | Official Website of NBI Gov Ph |
+| [Google Web Designer](https://webdesigner.withgoogle.com/) | Web Designer |
+| [MediaWiki](mediawiki.org) | Free Knowledge Base Website |
+| [Select Address](https://select-philippines-address-vue.vercel.app/) | Select Philippines Address Package |
 | [](#) | - |
 | [](#) | - |
 
@@ -214,7 +231,32 @@
 </details>
 
 
+<details>
+<summary>
+	Recommended Plugin for Visual Studio Code:
+</summary>
 
+| [Laravel Artisan ](#) | by Ryan Naddy |
+| [Laravel Blade Snippets](#) | by Winnie Lin |
+| [Laravel Blade Spacer](#) | by Austen |
+| [Laravel Extra Intellisense](#) | by amir |
+| [PHP Intelephense](#) | by Ben Mewburn |
+| [Laravel goto view](#) | by Codingyu |
+| [Laravel Goto Controller](#) | by ctf0 |
+| [Laravel snippet](#) | by Winnie Lin|
+| [Laravel-goto-components](#) | by naoray |
+| [PHP DocBlocker](#) | by Neil Brayfield |
+| [PHPDoc Comment](#) | by Rex Shi |
+| [PHP Namespace Resolver](#) | by Mehedi Hassan |
+| [Beautify](#) | by HookyQR |
+| [DotENV](#) | by mikestead |
+| [Paste JSON as Code](#) | by quicktype |
+| [VSCode Great Icons](#) | by Emmanual Beziat |
+| [Database client](#) | by Weijan Chen |
+| [](#) | by |
+
+
+</details>
 
 
 <hr>
