@@ -51,6 +51,7 @@
 | ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) | [Gitea](https://about.gitea.com/) | Version Control |
 | ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) | [Google Search Console](https://search.google.com/search-console/about) | SEO Tool |
 | ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [LinkedIn](https://www.linkedin.com/login) | Professional Social Media |
+| ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white) | [Pinterest](https://www.pinterest.ph/search/pins/?q=web%20page%20layout%20design%20inspiration&rs=guide&source_module_id=OBweb_page_layout_design_inspiration2dca8af7-ef28-45e5-a17d-6349e21df6bf&journey_depth=1&add_refine=Design%20inspiration%7Cguide%7Cword%7C3) | Sample webpage layout |
 | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) | [Render](https://dashboard.render.com/) | Hosting/SaaS |
 | ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) | [Swagger](https://app.swaggerhub.com/search) | Version Control  |
 | ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) | [Trello](https://trello.com/) | Kanban-style |
@@ -59,6 +60,8 @@
 | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) | [WordPress](https://wordpress.com/log-in?site=x4atoolfinder.wordpress.com&redirect_to=%2Fplugins%2Fbrowse%2Fseo%2Fx4atoolfinder.wordpress.com) | Framework |
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | [CloudFlare](https://dash.cloudflare.com/login) | DNS Service / Content Delivery Network |
 | ![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF) | [Wise](https://wise.com/login?redirectUrl=%2Fbalances%2F68738209) | Cross-border Payment Transfers |
+
+
 
 
 ## Import Files / Languages
