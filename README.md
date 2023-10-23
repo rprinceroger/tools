@@ -241,6 +241,8 @@
 	Recommended Plugin for Visual Studio Code:
 </summary>
 
+| Plug-in | Created | 
+| :-: | :-: |
 | [Laravel Artisan ](#) | by Ryan Naddy |
 | [Laravel Blade Snippets](#) | by Winnie Lin |
 | [Laravel Blade Spacer](#) | by Austen |
