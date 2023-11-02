@@ -27,6 +27,11 @@
 | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white) | [Zoom](https://zoom.us/download) | Collaboration Tool |
 | ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white) | [Skype](https://www.skype.com/en/get-skype/) | Collaboration Tool |
 | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | Virtual Machine |
+| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | [Visual Studio](https://visualstudio.microsoft.com/vs/older-downloads/) | Code Editor Suite (e.g C#) |
+| ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) | [Microsoft SQL Server (Free - Express)](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) | Microsoft SQL Server |
+
+
+
 
 
 
@@ -229,8 +234,13 @@
 | [Google Web Designer](https://webdesigner.withgoogle.com/) | Web Designer |
 | [MediaWiki](mediawiki.org) | Free Knowledge Base Website |
 | [Select Address](https://select-philippines-address-vue.vercel.app/) | Select Philippines Address Package |
-| [](#) | - |
-| [](#) | - |
+| [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) | SQL Database GUI |
+| [CyberLink - PowerDirector](https://www.cyberlink.com/products/powerdirector-video-editing-software/overview_en_US.html) | Video Editor |
+| [PRISM Live Studio](https://prismlive.com/en_us/pcapp/) | Streaming tool |
+| [Streamlabs](https://streamlabs.com/) | Streaming tool |
+| [OBS Studio](https://obsproject.com/) | Streaming tool |
+| [Shotcut](https://shotcut.org/) | Video Editor |
+| [Zapier](https://zapier.com/app/onboarding/profile) | API/SaaS/Webhook |
 
 
 </details>
