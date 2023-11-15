@@ -9,6 +9,8 @@
 | :-: | :-: | :-: |
 | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) | [Adobe Photoshop](https://www.adobe.com/ph_en/products/photoshop/free-trial-download.html) | Design |
 | ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) | [Brave Nightly](https://brave.com/download-nightly/) | Secure Browser - Chrome DevTool (JS) |
+| ![Binance](https://a11ybadges.com/badge?logo=binance) | [Binance](https://www.binance.com/en) | Crypto Currency |
+| ![Composer](https://a11ybadges.com/badge?logo=composer) | [Composer](https://getcomposer.org/) | Dependancy Manager |
 | ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) | [Discord](https://discord.com/download) | Social |
 | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) | [Firefox](https://www.mozilla.org/en-US/firefox/developer/) | Browser - Firefox DevTool (CSS) |
 | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | [Git](https://git-scm.com/downloads) | Version Control  |
@@ -29,10 +31,7 @@
 | ![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white) | [Skype](https://www.skype.com/en/get-skype/) | Collaboration Tool |
 | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | Virtual Machine |
 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | [Visual Studio](https://visualstudio.microsoft.com/vs/older-downloads/) | Code Editor Suite (e.g C#) |
-
-
-
-
+| ![XAMPP](https://a11ybadges.com/badge?logo=xampp) | [XAMPP](https://www.apachefriends.org/) | Cross-Platform |
 
 
 
@@ -66,8 +65,7 @@
 | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | [Vercel](https://vercel.com/login) | Deployment platform |
 | ![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF) | [Wise](https://wise.com/login?redirectUrl=%2Fbalances%2F68738209) | Cross-border Payment Transfers |
 | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) | [WordPress](https://wordpress.com/log-in?site=x4atoolfinder.wordpress.com&redirect_to=%2Fplugins%2Fbrowse%2Fseo%2Fx4atoolfinder.wordpress.com) | Framework |
-
-
+| ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) | [Twilio](https://www.twilio.com/code-exchange?q=) | Communication API |
 
 
 
@@ -155,8 +153,6 @@
 	
 | Name | Description |
 | :-: | :-: |
-| [XAMPP](https://www.apachefriends.org/) | Cross-Platform |
-| [Composer](https://getcomposer.org/) | Dependancy Manager |
 | [Cain and Abel](#) | Password Cracker |
 | [GoHighLevel](https://help.gohighlevel.com/support/solutions) | CRM |
 | [Midjourney](https://replit.com/) | Generates Images |
