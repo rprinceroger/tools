@@ -32,7 +32,7 @@
 | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | [VirtualBox](https://www.virtualbox.org/wiki/Downloads) | Virtual Machine |
 | ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) | [Visual Studio](https://visualstudio.microsoft.com/vs/older-downloads/) | Code Editor Suite (e.g C#) |
 | ![XAMPP](https://a11ybadges.com/badge?logo=xampp) | [XAMPP](https://www.apachefriends.org/) | Cross-Platform |
-
+| ![ngrok](https://a11ybadges.com/badge?logo=ngrok) | [Ngrok](https://dashboard.ngrok.com/login) | Deployed Locally |
 
 
 ## Operating System (ISO)
@@ -66,8 +66,8 @@
 | ![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF) | [Wise](https://wise.com/login?redirectUrl=%2Fbalances%2F68738209) | Cross-border Payment Transfers |
 | ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) | [WordPress](https://wordpress.com/log-in?site=x4atoolfinder.wordpress.com&redirect_to=%2Fplugins%2Fbrowse%2Fseo%2Fx4atoolfinder.wordpress.com) | Framework |
 | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) | [Twilio](https://www.twilio.com/code-exchange?q=) | Communication API |
-
-
+| ![Linktree](https://a11ybadges.com/badge?logo=linktree) | [Linktree](https://linktr.ee/prince.robielos) | Organize your link |
+| ![Google Cloud](https://a11ybadges.com/badge?logo=googlecloud) | [Google Cloud](https://cloud.google.com/storage/pricing#asia) | Cloud Data Storage |
 
 ## Import Files / Languages
 
@@ -116,7 +116,7 @@
 | ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) | [Babel](https://babeljs.io/) | Convert JSX to JS |
 | ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white) | [Google Meet](https://meet.google.com/) | Conferencing Software |
 | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) | Framework |
-
+| ![Chart.js](https://a11ybadges.com/badge?logo=chartdotjs) | [ChartJS](https://www.chartjs.org/) | Chart Framework |
 
 
 ## Games
@@ -248,10 +248,14 @@
 | [Book Stack](https://www.bookstackapp.com/) | Knowledge Base |
 | [Slack App Directory](https://slack.com/apps/A2H7KHQCW-ipushpull?tab=more_info) | Connect and automate with Slack |
 | [Ablebits.com](https://www.ablebits.com/) | Excel Resource |
+| [Google Workspace](https://workspace.google.com/intl/en_ph/pricing.html) | Formerly G Suite |
+| [WordPress on Google Cloud](https://cloud.google.com/wordpress?hl=en) | WordPress on Google Cloud |
+| [My Groups](https://groups.google.com/) | Google's Email Channel |
+| [OpenPhone](https://www.openphone.com/) | Virtual Phone |
+| [RingCentral Developers](https://developers.ringcentral.com/login.html#/) | Developers Community |
+| [Meta](https://business.facebook.com/) | Facebook Business |
+| [Pabbly](https://www.pabbly.com/) | Workflow builder |
 | [](#) | - |
-| [](#) | - |
-
-
 
 </details>
 
